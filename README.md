@@ -18,3 +18,7 @@ Recreating these functions is not just about typing code – it's a grand exerci
 Join the LIBFT quest and let the coding adventure begin! 🚀🌟
 
 <img width="2049" alt="Screen Shot 2023-11-12 at 4 41 28 PM" src="https://github.com/fredrukundo/Libft-42/assets/105452272/991a5773-952c-4100-a997-d955d1c2e464">
+
+# USAGE
+`make` without a bonus part  
+`make bonus` with bonus part
