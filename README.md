@@ -16,3 +16,5 @@ Behold, LIBFT, your second project at 42! 🎉 Brace yourself for a wild ride of
 Recreating these functions is not just about typing code – it's a grand exercise in understanding the intricate details, limitations, and unexpected surprises of each function. Unit testing is the ultimate challenge, making this journey a rollercoaster of learning and fun!
 
 Join the LIBFT quest and let the coding adventure begin! 🚀🌟
+
+<img width="2049" alt="Screen Shot 2023-11-12 at 4 41 28 PM" src="https://github.com/fredrukundo/Libft-42/assets/105452272/991a5773-952c-4100-a997-d955d1c2e464">
