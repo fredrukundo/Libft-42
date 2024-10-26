@@ -6,7 +6,7 @@
 /*   By: frukundo <frukundo@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/02 02:33:50 by frukundo          #+#    #+#             */
-/*   Updated: 2023/11/10 23:05:53 by frukundo         ###   ########.fr       */
+/*   Updated: 2024/10/26 04:40:38 by frukundo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -33,6 +33,6 @@ void	*ft_calloc(size_t num_elements, size_t size)
 // testing
 int main()
 {
- ft_calloc(10000000000,SIZE_T_MAX);
+ ft_calloc(10000000000,SIZE_MAX);
  return 0;
 }
